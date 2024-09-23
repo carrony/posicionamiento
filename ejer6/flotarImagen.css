@@ -1,0 +1,13 @@
+.flotarDcha {
+    float:right;
+    margin:10px;
+}
+
+.flotarIzq {
+    float:LEFT;
+    margin:10px;
+}
+
+p {
+    text-align: justify;
+}
