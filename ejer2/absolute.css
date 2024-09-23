@@ -1,0 +1,19 @@
+.primero, .tercero {
+    background-color: lightcoral;
+    font-family: Verdana,sans-serif;
+}
+
+.segundo {
+    background-color: yellow;
+    position: absolute;
+    left: 40px;
+    top:30px;
+}
+
+div {
+    margin-bottom: 5px;
+}
+
+div p {
+    padding: 10px;
+}
