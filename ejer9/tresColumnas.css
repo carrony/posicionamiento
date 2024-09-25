@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+header,footer {
+    background-color: #becdfe;
+    color:white;
+}
+
+body {
+    background-color: lightgray;
+    margin:0;
+}
+
+aside {
+    padding:20px 10px;
+    hyphens: auto;
+}
+
+#lateralIzq {
+    width:20%;
+    border-right: 2px solid grey;
+    float:left;
+}
+
+#lateralDcho {
+    border-left: 2px solid grey;
+    margin-left: 70%;
+}
+
+main {
+    padding:20px 10px;
+    height: 90vh;
+    float:left;
+    width:50%;
+}
+
+footer {
+    clear:left;
+}
+
+h1 {
+    margin:0;
+    padding:0px;
+}
+
+h6 {
+    margin:0;
+}
